@@ -1,0 +1,8 @@
+p=int(input("Enter First number="))
+q=int(input("Enter second number="))
+print(f"p==q",p==q)
+print(f"p!=q",p!=q)
+print(f"p>q",p>q)
+print(f"p<q",p<q)
+print(f"p>=q",p>=q)
+print(f"p<=q",p<=q)

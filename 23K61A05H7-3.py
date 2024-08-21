@@ -1,0 +1,6 @@
+p=int(input(""))
+q=int(input(""))
+print(f"{p} and {q}:",p and q)
+print(f"{p} or {q}:",p or q)
+print(f" not {p}:",not p)
+print(f"not {q}",not q)
